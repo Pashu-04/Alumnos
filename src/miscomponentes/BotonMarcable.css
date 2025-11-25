@@ -1,0 +1,14 @@
+button{
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px 10px;
+}
+.sin-marcar{
+    background-color: rgb(202, 209, 211);
+    color: black;
+}
+
+.marcado{
+    background-color: rgb(113, 115, 116);
+    color: white;
+}
